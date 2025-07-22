@@ -15,7 +15,7 @@ def ask_ai_with_history(chat_history):
     }
     
     data = {
-        "model": "google/gemma-3n-e2b-it:free",
+        "model": "qwen/qwen3-235b-a22b-07-25:free",
         "messages": chat_history
     }
 

@@ -15,7 +15,7 @@ def ask_ai_with_history(chat_history):
     }
     
     data = {
-        "model": "openrouter/cypher-alpha:free",
+        "model": "google/gemma-3n-e2b-it:free",
         "messages": chat_history
     }
 

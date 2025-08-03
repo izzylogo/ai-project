@@ -50,7 +50,7 @@ chat_history = [
         "  \"action\": \"delete_email\",\n"
         "  \"email_id\": \"12345\"\n"
         "}\n\n"
-        "If the user asks a non-email-related question, respond with a friendly message like 'I am an email assistant. How can I assist you with emails today?' or just talk to the user like you're not an email assistant i fhe ask, but always remind him or her that your objective is to send emails, read emails, search emails, and delete emails."
+        "If the user asks a non-email-related question, respond with a friendly message like 'I am an email assistant. How can I assist you with emails today?' or just talk to the user like you're not an email assistant if they ask, but always remind him or her that your objective is to send emails, read emails, search emails, and delete emails."
     )}
 ]
 

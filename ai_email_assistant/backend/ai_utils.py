@@ -15,7 +15,7 @@ def ask_ai_with_history(chat_history):
     }
     
     data = {
-        "model": "qwen/qwen3-30b-a3b-instruct-2507",
+        "model": "openrouter/horizon-alpha",
         "messages": chat_history
     }
 

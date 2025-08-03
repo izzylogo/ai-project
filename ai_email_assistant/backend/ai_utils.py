@@ -15,7 +15,7 @@ def ask_ai_with_history(chat_history):
     }
     
     data = {
-        "model": "qwen/qwen3-235b-a22b-07-25:free",
+        "model": "qwen/qwen3-30b-a3b-instruct-2507",
         "messages": chat_history
     }
 
